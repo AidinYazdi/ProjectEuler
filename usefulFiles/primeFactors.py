@@ -1,6 +1,6 @@
 # this program finds all the prime factors of a given number
 # the number we want to find the prime factors of
-num = 600851475143
+num = 1024
 primes = []
 prime_factors = []
 i = 2
